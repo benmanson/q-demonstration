@@ -1,6 +1,6 @@
 # q-demonstration
 
-An interactive demonstration of a queue in C. The queue is implemented as a linked list structure. The program can be run from the terminal using the following command:
+An interactive demonstration of a queue in C made in 2nd year. The queue is implemented as a linked list structure. The program can be run from the terminal using the following command:
 
 ```
 $ gcc q-demo.c
